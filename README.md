@@ -156,4 +156,4 @@ Detailed notes for each session are in the `notes` folder.
 
 - The practice files are learning demonstrations. Some use hardcoded data and do not touch the database.
 - The authentication example uses a hardcoded token and is for demonstration only.
-- This repository gives a foundation in FastAPI, not expert-level mastery.
+- This repository gives a foundation in FastAPI.
